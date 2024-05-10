@@ -1,8 +1,5 @@
 
-
- # 👋 &nbsp;Hey there! I'm Harshavardhan
-
-
+# 👋 &nbsp;Hey there! I'm Harshavardhan
 
 ## 💫 About Me:
 🏫 I am a `Sophomore` of Computer Science & Engineering department of [IIITDM Jabalpur](https://iiitdmj.ac.in/)<br>💻 I am currently learning React Native<br>😄 Always eager to explore new things and help others.<br>⚓ Reach out to me at uphadeharsh10@gmail.com
@@ -21,4 +18,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
