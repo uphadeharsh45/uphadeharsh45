@@ -1,5 +1,7 @@
 
-# 👋 &nbsp;Hey there! I'm Harshavardhan
+<h1 align="center">Hi 👋, I'm Harshavardhan</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
+
 
 ## 💫 About Me:
 🏫 I am a `Sophomore` of Computer Science & Engineering department of [IIITDM Jabalpur](https://iiitdmj.ac.in/)<br>💻 I am currently learning React Native<br>😄 Always eager to explore new things and help others.<br>⚓ Reach out to me at uphadeharsh10@gmail.com
