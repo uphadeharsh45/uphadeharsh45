@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      🏫 I am a <code>Sophomore</code> of Computer Science & Engineering department of <a href="https://iiitdmj.ac.in/">IIITDM Jabalpur</a><br>💻 I am currently learning React Native<br>😄 Always eager to explore new things and help others.<br>⚓ Reach out to me at uphadeharsh10@gmail.com
+      🏫 I am a <code>3rd Year Undergrad</code> of Computer Science & Engineering department of <a href="https://iiitdmj.ac.in/">IIITDM Jabalpur</a><br>💻 I am currently learning Django<br>😄 Always eager to explore new things and help others.<br>⚓ Reach out to me at uphadeharsh10@gmail.com
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width="300"/>
