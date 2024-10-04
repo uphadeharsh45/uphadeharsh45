@@ -10,7 +10,7 @@
       🏫 I am a <code>Sophomore</code> of Computer Science & Engineering department of <a href="https://iiitdmj.ac.in/">IIITDM Jabalpur</a><br>💻 I am currently learning React Native<br>😄 Always eager to explore new things and help others.<br>⚓ Reach out to me at uphadeharsh10@gmail.com
     </td>
     <td>
-      <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300"/>
+      <img src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width="300"/>
     </td>
   </tr>
 </table>
