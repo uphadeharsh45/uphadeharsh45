@@ -1,7 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Harshavardhan</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-
 
 ## 💫 About Me:
 <table>
@@ -10,14 +8,14 @@
       🏫 I am currently a <code>3rd Year Undergrad</code> of Computer Science & Engineering department at <a href="https://iiitdmj.ac.in/">IIITDM Jabalpur</a><br>
       💻 I am currently learning Flutter<br>
       😄 Always eager to explore new things and help others.<br>
-      ⚓ Reach out to me at <a href="mailto:uphadeharsh10@gmail.com">uphadeharsh10@gmail.com</a>
+      ⚓ Reach out to me at <a href="mailto:uphadeharsh10@gmail.com">uphadeharsh10@gmail.com</a><br>
+      🌐 Want to know more, check out <a href="https://harshavardhan-uphade-portfolio-rcoi.vercel.app" target="_blank">my portfolio</a>
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width="300"/>
     </td>
   </tr>
 </table>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh.uphade04) 
@@ -32,6 +30,7 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 </p>
@@ -78,7 +77,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uphadeharsh45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uphadeharsh45&theme=dark&hide_border=false)<br/>
@@ -86,4 +84,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
