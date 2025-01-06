@@ -6,7 +6,7 @@
   <tr>
     <td>
       🏫 I am currently a <code>3rd Year Undergrad</code> of Computer Science & Engineering department at <a href="https://iiitdmj.ac.in/">IIITDM Jabalpur</a><br>
-      💻 I am currently learning Flutter<br>
+      💻 I am currently learning Django<br>
       😄 Always eager to explore new things and help others.<br>
       ⚓ Reach out to me at <a href="mailto:uphadeharsh10@gmail.com">uphadeharsh10@gmail.com</a><br>
       🌐 Want to know more, check out <a href="https://harshavardhan-uphade-portfolio-rcoi.vercel.app" target="_blank">my portfolio</a>
