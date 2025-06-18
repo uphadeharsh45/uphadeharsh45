@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      🏫 I am currently a <code>3rd Year Undergrad</code> of Computer Science & Engineering department at <a href="https://iiitdmj.ac.in/">IIITDM Jabalpur</a><br>
+      🏫 I am currently a <code>Final Year Undergrad</code> of Computer Science & Engineering department at <a href="https://iiitdmj.ac.in/">IIITDM Jabalpur</a><br>
       💻 I am currently learning Django<br>
       😄 Always eager to explore new things and help others.<br>
       ⚓ Reach out to me at <a href="mailto:uphadeharsh10@gmail.com">uphadeharsh10@gmail.com</a><br>
